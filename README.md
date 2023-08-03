@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm voids</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voidsshadows&label=Profile%20views&color=0e75b6&style=flat" alt="voidsshadows" /> </p>
 
@@ -16,6 +15,6 @@
 </p><br><br>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=voidsshadows&show_icons=true&locale=en" alt="voidsshadows" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=voidsshadows&show_icons=true&locale=en&layout=compact" alt="voidsshadows" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voidsshadows&show_icons=true&locale=en&layout=compact" alt="voidsshadows" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=voidsshadows&" alt="voidsshadows" /></p>
 <p><a href="https://www.buymeacoffee.com/voidsshadows"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="voidsshadows" /></a>
