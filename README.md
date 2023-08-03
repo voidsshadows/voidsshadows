@@ -1,21 +1,49 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voidsshadows&label=Profile%20views&color=0e75b6&style=flat" alt="voidsshadows" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=voidsshadows" alt="voidsshadows" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<!-- Profile Views Counter -->
 <p align="left">
-<a href="https://twitter.com/thevoidsshadows" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevoidsshadows" height="30" width="40" /></a>
+    <img src="https://komarev.com/ghpvc/?username=voidsshadows&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<!-- GitHub Profile Trophy -->
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=voidsshadows" alt="GitHub Profile Trophy" />
+    </a>
+</p>
+
+<!-- Connect with Me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/thevoidsshadows" target="blank">
+        <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    </a>
+</p>
+
+<!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left">
+    <!-- List your icons and links here -->
+</p>
 
-<p><a href="https://www.buymeacoffee.com/voidsshadows"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="voidsshadows" /></a>
-</p><br><br>
+<!-- Support -->
+<p align="left">
+    <a href="https://www.buymeacoffee.com/voidsshadows">
+        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+    </a>
+</p>
 
+<br>
+<br>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voidsshadows&show_icons=true&locale=en&layout=compact" alt="voidsshadows" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=voidsshadows&" alt="voidsshadows" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=voidsshadows&show_icons=true&locale=en" alt="voidsshadows" /></p>
+<!-- Top Languages and GitHub Streak Stats -->
+<p align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voidsshadows&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="left">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=voidsshadows" alt="GitHub Streak Stats" />
+</p>
 
+<!-- GitHub Stats -->
+<p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=voidsshadows&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
