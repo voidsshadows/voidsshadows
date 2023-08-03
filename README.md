@@ -14,7 +14,8 @@
 <p><a href="https://www.buymeacoffee.com/voidsshadows"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="voidsshadows" /></a>
 </p><br><br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=voidsshadows&show_icons=true&locale=en" alt="voidsshadows" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voidsshadows&show_icons=true&locale=en&layout=compact" alt="voidsshadows" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=voidsshadows&" alt="voidsshadows" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=voidsshadows&show_icons=true&locale=en" alt="voidsshadows" /></p>
 
