@@ -31,19 +31,15 @@
     </a>
 </p>
 
-<br>
-<br>
-<br>
-
 <!-- Top Languages and GitHub Streak Stats -->
-<p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voidsshadows&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="left">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=voidsshadows" alt="GitHub Streak Stats" />
-</p>
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=voidsshadows&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
+<div align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidsshadows" alt="GitHub Streak Stats" />
+</div>
 
 <!-- GitHub Stats -->
-<p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=voidsshadows&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<div align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=voidsshadows&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
